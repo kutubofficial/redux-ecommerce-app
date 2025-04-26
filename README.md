@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Coming Soon]
+🔗 [(https://redux-ecommerce-app-inky.vercel.app/)]
 
 ---
 
